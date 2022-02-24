@@ -13,7 +13,7 @@
 
 
 
-#�Main features:
+#Main features:
 
 ✔HTML5 & CSS3<br> 
 ✔Pixel Perfect Design<br> 
@@ -29,22 +29,3 @@
 ✔Fast Page Loading<br> 
 ✔Easy to customize<br>  
 ✔W3C Validated Code<br>   
-✔And Much More!<br>
-
-
-#�Source & Credits
-BootStrap 4<br> 
-Google font<br> 
-Javascript<br> 
-Jquery Library<br>
-Font Awesome 5<br>
-
-
-☑️N.B: I create this template for develop my skill. This Template design idea is not mine,but every single line of code done by me.<br>
-
-Twitter:https://twitter.com/RadwanAnik <br>
-Linkedin:www.linkedin.com/in/radwan-ahmed-b52950100<br>
-Behance:https://www.behance.net/ahmedradwa8b76<br>
-behance:https://www.behance.net/gallery/75018993/Ask-Online-HTML-Forum-Template<br>
-youtube:https://www.youtube.com/watch?v=AnxGngl1ANA&feature=youtu.be<br>
-    
